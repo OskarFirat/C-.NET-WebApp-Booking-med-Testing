@@ -1,5 +1,0 @@
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\DAL\bin\Debug\DAL.dll.config
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\DAL\bin\Debug\DAL.dll
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\DAL\Debug\DAL.csprojAssemblyReference.cache
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\DAL\Debug\DAL.csproj.CopyComplete
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\DAL\Debug\DAL.dll

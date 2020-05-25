@@ -1,4 +1,0 @@
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\Model\bin\Debug\Model.dll
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.csprojAssemblyReference.cache
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.csproj.CopyComplete
-E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.dll

@@ -1,8 +1,0 @@
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\b\BILL\bin\Debug\BILL.dll
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\i\BILL\Debug\BILL.csprojAssemblyReference.cache
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\i\BILL\Debug\BILL.csproj.CopyComplete
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\i\BILL\Debug\BILL.dll
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\BILL\bin\Debug\BILL.dll
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\BILL\Debug\BILL.csprojAssemblyReference.cache
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\BILL\Debug\BILL.csproj.CopyComplete
-C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\BILL\Debug\BILL.dll
