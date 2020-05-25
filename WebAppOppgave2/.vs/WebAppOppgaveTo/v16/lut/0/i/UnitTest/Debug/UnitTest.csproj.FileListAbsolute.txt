@@ -1,0 +1,8 @@
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\UnitTest.dll.config
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\UnitTest.dll
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\UnitTest\Debug\UnitTest.csprojAssemblyReference.cache
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\UnitTest\Debug\UnitTest.csproj.CopyComplete
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\UnitTest\Debug\UnitTest.dll
