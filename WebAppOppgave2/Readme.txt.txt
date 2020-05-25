@@ -15,4 +15,3 @@ Jeg har valgt at endring og sletting av strekning har sin egen logg som heter "S
 Jeg har valgt at endring og sletting av avgang har sin egen logg som heter "AvgangLogg".
 
 Når man gjør noe endring kommer lengst ned i dokumentene.
-
