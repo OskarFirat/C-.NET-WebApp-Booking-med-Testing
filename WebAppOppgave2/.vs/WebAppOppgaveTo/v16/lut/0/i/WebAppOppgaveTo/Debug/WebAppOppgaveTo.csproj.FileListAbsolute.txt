@@ -1,0 +1,4 @@
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\WebAppOppgaveTo\bin\WebAppOppgaveTo.dll.config
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\WebAppOppgaveTo\bin\WebAppOppgaveTo.dll
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\WebAppOppgaveTo\Debug\WebAppOppgaveTo.csproj.CopyComplete
+E:\lastOne\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\WebAppOppgaveTo\Debug\WebAppOppgaveTo.dll

@@ -1,0 +1,8 @@
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\b\Model\bin\Debug\Model.dll
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.csprojAssemblyReference.cache
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.csproj.CopyComplete
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveTo\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.dll
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\Model\bin\Debug\Model.dll
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.csprojAssemblyReference.cache
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.csproj.CopyComplete
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\Model\Debug\Model.dll

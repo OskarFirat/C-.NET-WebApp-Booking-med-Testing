@@ -1,0 +1,7 @@
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\b\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\UnitTest\Debug\UnitTest.csproj.CopyComplete
+C:\Users\be442\OneDrive\Desktop\WebAppOppgaveToSist\.vs\WebAppOppgaveTo\v16\lut\0\i\UnitTest\Debug\UnitTest.dll
